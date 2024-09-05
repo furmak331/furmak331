@@ -13,7 +13,6 @@ Welcome to my GitHub! I'm a B.Tech student at NIT Srinagar, and I'm all about th
 Right now, I’m sharpening my skills in web development and automation, and taking a deep dive into cybersecurity. I enjoy cracking complex problems with code and making the web a safer place.
 
 
-This version uses emojis to break up sections, adds a bit more personality, and keeps things light and fun while still being informative.
 🌟 A Bit More About Me
 
     💻 I love participating in coding competitions.
