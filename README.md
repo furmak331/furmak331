@@ -30,7 +30,7 @@ Right now, I'm sharpening my skills in web development and automation, and takin
 I'm always up for connecting with fellow developers, sharing ideas, or working on cool projects together. Got an idea? Want to chat about tech? Hit me up!
 
     📧 furmak331@gmail.com
-    LinkedIn <!-- # -->
+  
    
 🎉 Thank You for Visiting!
 
