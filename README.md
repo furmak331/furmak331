@@ -16,7 +16,7 @@ Right now, I'm sharpening my skills in web development and automation, and takin
 
 ## 🐍 My Contribution Graph
 
-![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/furmak331/furmak331/blob/output/github-contribution-grid-snake.gif)
 
 ## 🌟 A Bit More About Me
 
