@@ -14,9 +14,7 @@ Right now, I'm sharpening my skills in web development and automation, and takin
 
 ![Pixel Character](https://user-images.githubusercontent.com/pixel-character-link.gif)
 
-## 🐍 My Contribution Graph
 
-![snake gif](https://github.com/furmak331/furmak331/blob/output/github-contribution-grid-snake.gif)
 
 ## 🌟 A Bit More About Me
 
