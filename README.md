@@ -22,7 +22,7 @@ Right now, I'm sharpening my skills in web development and automation, and takin
     🎮 An avid gamer and enjoy developing game mods in my free time.
 
 🛠️ Technologies & Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,react,python,c,nodejs,html,css,git,github,vscode,expressjs,mysql,postgresql,postman,git,docker,linux,figma,selenium,rust,go,threejs,vscode,ubuntu,kali,tensorflow," alt="Technologies & Tools" /> </div>
+<div align="center"> <img src="https://skillicons.dev/icons?i=,,js,react,python,c,nodejs,html,css,git,github,vscode,expressjs,mysql,postgresql,,,postman,git,docker,linux,figma,selenium,rust,go,threejs,vscode,ubuntu,kali," alt="Technologies & Tools" /> </div>
 
   
 💬 Let's Collaborate!
