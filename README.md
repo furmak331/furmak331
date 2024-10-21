@@ -1,6 +1,6 @@
 Hey, I'm Furqan! 👋
 
-Welcome to my GitHub! I'm a B.Tech student at NIT Srinagar, and I'm all about the tech life. Whether it's crafting sleek websites or diving into cybersecurity, I'm always exploring the endless possibilities of the digital world.
+Welcome to my GitHub! I'm all about the tech life. Whether it's crafting sleek websites or diving into cybersecurity, I'm always exploring the endless possibilities of the digital world.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=furmak331&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 🚀 What You'll Find Here
 
@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a B.Tech student at NIT Srinagar, and I'm all about th
 
 Right now, I'm sharpening my skills in web development and automation, and taking a deep dive into cybersecurity. I enjoy cracking complex problems with code and making the web a safer place.
 
-🌟 A Bit More About Me
+🌟 A Bit More About Mep
 
     💻 I love participating in coding competitions.
     📚 Always learning—whether it's a new framework, a programming concept, or just a cool tech trick.
