@@ -20,7 +20,7 @@
 ### `$ SYSTEM:/root/whoami`
 ### ` <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="150" align="center">
 
-🎓 BTech Student @ NIT Srinagar | 🔐 Security Enthusiast | 🤖 ML Explorer
+🎓 BTech Student @ NIT Srinagar | 🔐 Security Enthusiast | 🤖 ML Explorer | 🎓 Researcher
 
 [![Website](https://img.shields.io/badge/Portfolio-furqanmakhdoomi.netlify.app-blue?style=flat-square&logo=google-chrome)](https://furqanmakhdoomi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/furqan-makhdoomi-b69651284/)
@@ -54,7 +54,7 @@ class FurqanMakhdoomi:
 
 ### 🛠️ Tech Arsenal
 <!-- Cyber Security GIF -->
-<img align="right" height="385" src="https://media.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif"/>
+<img align="right" height="505" width="450" src="https://media.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif"/>
  
 ```terminal
 ├── Languages
