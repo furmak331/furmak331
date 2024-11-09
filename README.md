@@ -54,7 +54,7 @@ class FurqanMakhdoomi:
 
 ### 🛠️ Tech Arsenal
 <!-- Cyber Security GIF -->
-<img align="right" height="455" width="442" src="https://media.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif"/>
+<img align="right" height="455" width="437" src="https://media.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif"/>
  
 ```terminal
 ├── Languages
