@@ -3,8 +3,6 @@
 <!-- Animated Tech Banner -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Furqan+Makhdoomi;Welcome+to+my+Matrix)](https://git.io/typing-svg)
 
-
-
 ```ascii
  ╔═══════════════════════════════════════════════════════════════╗
  ║  ███████╗██╗   ██╗██████╗  ██████╗  █████╗ ███╗   ██╗        ║
@@ -19,8 +17,8 @@
 <!-- Cyberpunk Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### `$ whoami`
-<img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp&ct=g" width="200">
+### `$ SYSTEM:/root/whoami`
+### ` <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="150" align="center">
 
 🎓 BTech Student @ NIT Srinagar | 🔐 Security Enthusiast | 🤖 ML Explorer
 
@@ -32,7 +30,8 @@
 </div>
 
 <!-- Matrix-style Code Animation -->
-<img align="right" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9oMWk4Mm8wYnpnOHMyOXIyNmNhZWx5Y2R6Ymdvb2JwNXljd3h5cyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zXmbOaTpbY6mA/giphy.gif"/>
+<div>
+
 
 ```python
 class FurqanMakhdoomi:
@@ -51,11 +50,12 @@ class FurqanMakhdoomi:
         }
 ```
 
-<!-- Cyber Security GIF -->
-<img align="right" height="250" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJwY3JqMmpwbWt0M2Qzc2JlNzQxYjY4NnNyYmlxbmxqbXAwZ3MwbyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+
 
 ### 🛠️ Tech Arsenal
-
+<!-- Cyber Security GIF -->
+<img align="right" height="345" src="https://media.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif"/>
+ 
 ```terminal
 ├── Languages
 │   ├── Python
@@ -106,7 +106,9 @@ class FurqanMakhdoomi:
 
 <!-- Neural Network Animation -->
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJhaDVrYnRnazk2YzBhaWd2YTdxdWMxbG1nOGh6ZnA0Y2lhNXplZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400">
+
+
+</div>
 </div>
 
 ### 📊 GitHub Analytics
@@ -122,7 +124,7 @@ class FurqanMakhdoomi:
 ```
 
 <!-- Hacker Animation -->
-<img align="right" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpkajQ2cGk0ZGZ0NjdmYnN1dDlrZm5vemZqcnJnbDQ5OHY0MWx1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YQitE4YNQNahy/giphy.gif"/>
+<img align="right" height="120" width="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpkajQ2cGk0ZGZ0NjdmYnN1dDlrZm5vemZqcnJnbDQ5OHY0MWx1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YQitE4YNQNahy/giphy.gif"/>
 
 ### 🔐 Security Focus
 ```python
@@ -142,7 +144,7 @@ while True:
 *"In the midst of chaos, there is also opportunity" - Sun Tzu, The Art of War*
 
 <!-- Visitor Badge with CPU Animation -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5Y2h6ZjhyY3RyMWF2M3dwdWkzczlwYWF2ZnJ4NjRjbDhya2l4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5Y2h6ZjhyY3RyMWF2M3dwdWkzczlwYWF2ZnJ4NjRjbDhya2l4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=furmak331&color=blue&style=flat-square)](https://github.com/furmak331)
 
