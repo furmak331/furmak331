@@ -20,7 +20,7 @@
 ### `$ SYSTEM:/root/whoami`
 ### ` <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="150" align="center">
 
-🎓 BTech Student @ NIT Srinagar | 🔐 Security Enthusiast | 🤖 ML Explorer | 🎓 Researcher
+🎓 BTech Student @ NIT Srinagar | 🔐 CyberSecurity | 🤖 Deep Learning | 🎓 Researcher
 
 [![Website](https://img.shields.io/badge/Portfolio-furqanmakhdoomi.netlify.app-blue?style=flat-square&logo=google-chrome)](https://furqanmakhdoomi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/furqan-makhdoomi-b69651284/)
