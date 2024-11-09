@@ -54,7 +54,7 @@ class FurqanMakhdoomi:
 
 ### 🛠️ Tech Arsenal
 <!-- Cyber Security GIF -->
-<img align="right" height="345" src="https://media.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif"/>
+<img align="right" height="385" src="https://media.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif"/>
  
 ```terminal
 ├── Languages
@@ -64,15 +64,23 @@ class FurqanMakhdoomi:
 ├── AI/ML Tools
 │   ├── PyTorch
 │   ├── NumPy
-│   └── Pandas
+│   ├── Pandas
+│   └── Jupyter Notebook
 ├── Development
 │   ├── Node.js
 │   ├── React
-│   └── REST APIs
-└── Security Tools
-    ├── Wireshark
-    ├── Metasploit
-    └── Burp Suite
+│   ├── Django
+│   ├── REST APIs
+│   ├── PostgreSQL
+│   └── MongoDB
+├── DevOps & Tools
+│   ├── Docker
+│   ├── Git
+│   └── Postman
+└── Automation Tools
+    ├── Selenium
+    ├── Web ChromeDrivers
+    └── Beautiful Soup
 ```
 
 <!-- Tech Wave Divider -->
