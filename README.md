@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Tech Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Furqan+Makhdoomi;Welcome+to+my+Matrix)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Furqan+Makhdoomi;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 ```ascii
  ╔═══════════════════════════════════════════════════════════════╗
