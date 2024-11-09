@@ -124,7 +124,7 @@ class FurqanMakhdoomi:
 ```ascii
 ╔═══════════════════════════════════════════╗
 ║ Contribution Activity                     ║
-║ ⬛⬛⬛⬜⬛⬛⬜⬜⬜⬜⬛⬛⬜⬜⬛⬛⬛║
+║⬛⬛⬛⬜⬛⬛⬜⬜⬜⬜⬛⬛⬜⬜⬛⬛⬛ ║
 ║ Deep Learning       ██████████░░░  70%    ║
 ║ Web Development     ████████░░░░░  55%    ║
 ║ Security Research   ███████░░░░░░  45%    ║
