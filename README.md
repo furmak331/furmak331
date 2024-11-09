@@ -1,37 +1,152 @@
-Hey, I'm Furqan! 👋
+<div align="center">
 
-Welcome to my GitHub!I'm all about the tech life. Whether it's crafting sleek websites or diving into Deep learning, I'm always exploring the endless possibilities of the digital world.
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=furmak331&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-🚀 What You'll Find Here
+<!-- Animated Tech Banner -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Furqan+Makhdoomi;Welcome+to+my+Matrix)](https://git.io/typing-svg)
 
-    🛠 Projects: From web development to automation scripts, and even some cybersecurity experiments, my repositories are a mix of what I'm learning and creating. Always something new on the horizon!
-    🌍 Open-Source Contributions: I'm a big believer in community. Check out my pull requests and issues to see where I've been contributing to open-source projects.
-    🔍 Explorations: I love trying out new technologies and concepts. You'll find me experimenting with different programming languages, tools, and the latest trends in automation.
 
-🌱 What I'm Currently Diving Into
 
-Right now, I'm sharpening my skills in web development and automation, and taking a deep dive into Deep learning. I enjoy cracking complex problems with code and making the web a safer place.
+```ascii
+ ╔═══════════════════════════════════════════════════════════════╗
+ ║  ███████╗██╗   ██╗██████╗  ██████╗  █████╗ ███╗   ██╗        ║
+ ║  ██╔════╝██║   ██║██╔══██╗██╔═══██╗██╔══██╗████╗  ██║        ║
+ ║  █████╗  ██║   ██║██████╔╝██║   ██║███████║██╔██╗ ██║        ║
+ ║  ██╔══╝  ██║   ██║██╔══██╗██║▄▄ ██║██╔══██║██║╚██╗██║        ║
+ ║  ██║     ╚██████╔╝██║  ██║╚██████╔╝██║  ██║██║ ╚████║        ║
+ ║  ╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚══▀▀═╝ ╚═╝  ╚═╝╚═╝  ╚═══╝        ║
+ ╚═══════════════════════════════════════════════════════════════╝
+```
 
-🌟 A Bit More About Me
+<!-- Cyberpunk Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-    💻 I love participating in coding competitions.
-    📚 Always learning—whether it's a new framework, a programming concept, or just a cool tech trick.
-    🚀 Completed courses in advanced web development and data structures.
-    💡 Problem-solving is my jam, and I thrive in collaborative environments.
-    ⏳ I'm good at managing my time, so I always find a balance between studies, projects, and play.
-    🎮 An avid gamer and enjoy developing game mods in my free time.
+### `$ whoami`
+<img src="https://media2.giphy.com/media/QNFhOolVeCzPQ2Mx85/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp&ct=g" width="200">
 
-🛠️ Technologies & Tools
-<div align="center"> <img src="https://skillicons.dev/icons?i=,js,react,python,cpp,nodejs,html,css,git,github,vscode,expressjs,mysql,postgresql,huggingface,,postman,git,docker,linux,figma,selenium,c,threejs,neovim,ubuntu,latex,scikitlearn,pytorch" alt="Technologies & Tools" /> </div>
+🎓 BTech Student @ NIT Srinagar | 🔐 Security Enthusiast | 🤖 ML Explorer
 
-  
-💬 Let's Collaborate!
+[![Website](https://img.shields.io/badge/Portfolio-furqanmakhdoomi.netlify.app-blue?style=flat-square&logo=google-chrome)](https://furqanmakhdoomi.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/furqan-makhdoomi-b69651284/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/furmak)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Profile-yellow?style=flat-square)](https://huggingface.co/Furmak331)
 
-I'm always up for connecting with fellow developers, sharing ideas, or working on cool projects together. Got an idea? Want to chat about tech? Hit me up!
+</div>
 
-    📧 furmak331@gmail.com
-  
-   
-🎉 Thank You for Visiting!
+<!-- Matrix-style Code Animation -->
+<img align="right" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9oMWk4Mm8wYnpnOHMyOXIyNmNhZWx5Y2R6Ymdvb2JwNXljd3h5cyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/zXmbOaTpbY6mA/giphy.gif"/>
 
-Feel free to explore my projects and reach out if you'd like to collaborate!
+```python
+class FurqanMakhdoomi:
+    def __init__(self):
+        self.username = 'furmak331'
+        self.location = 'Srinagar, India'
+        self.education = 'B.Tech Information Technology'
+        self.interests = ['Computer Vision', 'Deep Learning', 'Cybersecurity']
+        self.current_status = 'Turning ☕ into <code/>'
+        
+    def get_current_projects(self):
+        return {
+            '🔍 Vision OCR': 'Building OCR system for regional languages',
+            '🤖 Agrobot': 'AI advisory for Kashmir farmers',
+            '🔐 Security Research': 'Exploring system vulnerabilities',
+        }
+```
+
+<!-- Cyber Security GIF -->
+<img align="right" height="250" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJwY3JqMmpwbWt0M2Qzc2JlNzQxYjY4NnNyYmlxbmxqbXAwZ3MwbyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+
+### 🛠️ Tech Arsenal
+
+```terminal
+├── Languages
+│   ├── Python
+│   ├── C++
+│   └── JavaScript
+├── AI/ML Tools
+│   ├── PyTorch
+│   ├── NumPy
+│   └── Pandas
+├── Development
+│   ├── Node.js
+│   ├── React
+│   └── REST APIs
+└── Security Tools
+    ├── Wireshark
+    ├── Metasploit
+    └── Burp Suite
+```
+
+<!-- Tech Wave Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🚀 Featured Projects
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhkY3RyZDdqcHNzcnhucDVqb3pqYnBhYmhjdnU3Nnl5c3VwN3VmeSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46Cy1rHbQ92uuLXa/giphy.gif" height="100">
+</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>EZ Reserve</h3>
+      <p>🍽️ Restaurant Reservation Platform</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    </td>
+    <td align="center">
+      <h3>Vision OCR</h3>
+      <p>👁️ Regional Language Recognition</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+    </td>
+    <td align="center">
+      <h3>Agrobot</h3>
+      <p>🌾 AI Farm Advisory</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Neural Network Animation -->
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJhaDVrYnRnazk2YzBhaWd2YTdxdWMxbG1nOGh6ZnA0Y2lhNXplZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400">
+</div>
+
+### 📊 GitHub Analytics
+
+```ascii
+╔═══════════════════════════════════════════╗
+║ Contribution Activity                      ║
+║ ⬛⬛⬛⬜⬛⬛⬜⬛⬛⬛⬜⬛⬛⬜⬛⬛⬛⬜⬛⬛ ║
+║ Deep Learning       ██████████░░░  70%    ║
+║ Web Development     ████████░░░░░  55%    ║
+║ Security Research   ███████░░░░░░  45%    ║
+╚═══════════════════════════════════════════╝
+```
+
+<!-- Hacker Animation -->
+<img align="right" height="150" width="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpkajQ2cGk0ZGZ0NjdmYnN1dDlrZm5vemZqcnJnbDQ5OHY0MWx1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YQitE4YNQNahy/giphy.gif"/>
+
+### 🔐 Security Focus
+```python
+while True:
+    learn_new_vulnerabilities()
+    implement_secure_practices()
+    contribute_to_community()
+    if coffee_empty():
+        refill_coffee()
+```
+
+<div align="center">
+
+<!-- Cyberpunk Quote Box -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+*"In the midst of chaos, there is also opportunity" - Sun Tzu, The Art of War*
+
+<!-- Visitor Badge with CPU Animation -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ5Y2h6ZjhyY3RyMWF2M3dwdWkzczlwYWF2ZnJ4NjRjbDhya2l4ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WFZvB7VIXBgiz3oDXE/giphy.gif" width="60">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=furmak331&color=blue&style=flat-square)](https://github.com/furmak331)
+
+</div>
+
+<!-- Final Matrix Rain -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
