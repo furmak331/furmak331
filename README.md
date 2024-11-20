@@ -121,15 +121,7 @@ class FurqanMakhdoomi:
 
 ### 📊 GitHub Analytics
 
-```ascii
-╔═══════════════════════════════════════════╗
-║ Contribution Activity                     ║
-║⬛⬛⬛⬜⬛⬛⬜⬜⬜⬜⬛⬛⬜⬜⬛⬛⬛ ║
-║ Deep Learning       ██████████░░░  70%    ║
-║ Web Development     ████████░░░░░  55%    ║
-║ Security Research   ███████░░░░░░  45%    ║
-╚═══════════════════════════════════════════╝
-```
+
 
 <!-- Hacker Animation -->
 <img align="right" height="120" width="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmpkajQ2cGk0ZGZ0NjdmYnN1dDlrZm5vemZqcnJnbDQ5OHY0MWx1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/YQitE4YNQNahy/giphy.gif"/>
