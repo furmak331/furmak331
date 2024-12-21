@@ -20,12 +20,10 @@
 ### `$ SYSTEM:/root/whoami`
 ### ` <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="150" align="center">
 
-🎓 BTech Student @ NIT Srinagar | 🤖 Deep Learning | 🔐 CyberSecurity | 🎓 Researcher
+🎓 BTech Student @ NIT Srinagar | 🔐 CyberSecurity | 🎓 Researcher
 
 [![Website](https://img.shields.io/badge/Portfolio-furqanmakhdoomi.netlify.app-blue?style=flat-square&logo=google-chrome)](https://furqanmakhdoomi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/furqan-makhdoomi-b69651284/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/furmak)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-Profile-yellow?style=flat-square)](https://huggingface.co/Furmak331)
 
 </div>
 
@@ -61,11 +59,10 @@ class FurqanMakhdoomi:
 │   ├── Python
 │   ├── C++
 │   └── JavaScript
-├── AI/ML Tools
-│   ├── PyTorch
-│   ├── NumPy
-│   ├── Pandas
-│   └── Jupyter Notebook
+├── Cybersecurity Tools
+│   ├── Nmap
+│   ├── Metasploit
+│   └── Wireshark
 ├── Development
 │   ├── Node.js
 │   ├── React
