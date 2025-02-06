@@ -20,7 +20,7 @@
 ### `$ SYSTEM:/root/whoami`
 ### ` <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="150" align="center">
 
-🎓 BTech Student @ NIT Srinagar | 🔐 CyberSecurity | 🎓 Researcher
+🎓 BTech Student @ NIT Srinagar | 🔐Google Certified CyberSecurity Professioinal | 🎓 Researcher
 
 [![Website](https://img.shields.io/badge/Portfolio-furqanmakhdoomi.netlify.app-blue?style=flat-square&logo=google-chrome)](https://furqanmakhdoomi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/furqan-makhdoomi-b69651284/)
@@ -37,13 +37,13 @@ class FurqanMakhdoomi:
         self.username = 'furmak331'
         self.location = 'Srinagar, India'
         self.education = 'B.Tech Information Technology'
-        self.interests = ['Computer Vision', 'Deep Learning', 'Cybersecurity']
+        self.interests = ['Cybersecurity', 'Low level Programming', 'CTFs']
         self.current_status = 'Turning ☕ into <code/>'
         
     def get_current_projects(self):
         return {
-            '🔍 Vision OCR': 'Building OCR system for regional languages',
-            '🤖 Agrobot': 'AI advisory for Kashmir farmers',
+            '🔍 NTRU Implementation': 'Lattice based Post Quantum Cryptosystem',
+            '🤖 Agrobot': 'AI advisory for farmers',
             '🔐 Security Research': 'Exploring system vulnerabilities',
         }
 ```
@@ -96,12 +96,7 @@ class FurqanMakhdoomi:
       <p>🍽️ Restaurant Reservation Platform</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
     </td>
-    <td align="center">
-      <h3>Vision OCR</h3>
-      <p>👁️ Regional Language Recognition</p>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-    </td>
-    <td align="center">
+     <td align="center">
       <h3>Agrobot</h3>
       <p>🌾 AI Farm Advisory</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
