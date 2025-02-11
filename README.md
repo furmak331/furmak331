@@ -92,6 +92,11 @@ class FurqanMakhdoomi:
 <table>
   <tr>
     <td align="center">
+      <h3>Quantum Safe Cryptosystem</h3>
+      <p>Twisted DiTRU</p>
+<img src="https://img.shields.io/badge/Secure%20Encryption-000000?style=flat-square&logo=expensify&logoColor=white"/>
+    </td>
+    <td align="center">
       <h3>EZ Reserve</h3>
       <p>🍽️ Restaurant Reservation Platform</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
