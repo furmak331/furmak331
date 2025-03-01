@@ -43,8 +43,8 @@ class FurqanMakhdoomi:
     def get_current_projects(self):
         return {
             '🔍 NTRU Implementation': 'Lattice based Post Quantum Cryptosystem',
-            '🤖 Agrobot': 'AI advisory for farmers',
-            '🔐 Security Research': 'Exploring system vulnerabilities',
+            '🧑‍💻 Exploitohorizon': 'Gamified experience to learn vulnerabilites safely'
+            '🤖 Agrobot': 'AI advisory for farmers'
         }
 ```
 
