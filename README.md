@@ -19,16 +19,6 @@ When I'm not coding, you'll find me researching security threats or experimentin
 [![Portfolio](https://img.shields.io/badge/Portfolio-furqanmakhdoomi.netlify.app-blue?style=flat-square&logo=google-chrome)](https://furqanmakhdoomi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/furqan-makhdoomi-b69651284/)
 
-## Current Projects
-
-```python
-def current_projects():
-    return {
-        '🔍 NTRU Implementation': 'Implementing lattice-based post-quantum cryptography',
-        '🧑‍💻 Exploitohorizon': 'Developing a gamified platform for vulnerability education',
-        '🤖 Agrobot': 'Building an AI advisory system for agricultural optimization'
-    }
-```
 
 ## Tech Stack
 
