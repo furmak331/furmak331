@@ -18,9 +18,9 @@ Software developer and security researcher currently pursuing B.Tech at NIT Srin
 
 ```python
 tech = {
-    'languages': ['Python', 'C/C++', 'Java', 'JavaScript'],
-    'frameworks': ['React', 'Django', 'Node.js'],
-    'security': ['Penetration Testing', 'SIEM (Chronicle, Splunk)', 'Network Analysis'],
+    'languages': ['C', 'C++', 'Python', 'Java', 'JavaScript'],
+    'frameworks': ['React', 'Node.js'],
+    'security': ['Penetration Testing', 'SIEM', 'Network Analysis'],
     'infrastructure': ['Docker', 'Git', 'Automation', 'Homelab']
 }
 ```
