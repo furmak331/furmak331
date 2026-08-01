@@ -15,7 +15,7 @@ Software developer and security researcher currently pursuing B.Tech at NIT Srin
 
 
 <div align="center">
-  <img src="terminal_profile.gif" alt="Furqan's Terminal Profile" width="700">
+  <img src="output.gif" alt="Furqan's Terminal Profile" width="700">
 </div>
 
 ## Tech Stack(but not limited to :) 
