@@ -4,9 +4,8 @@ import gifos
 # Initialize the terminal (adjust width/height as needed)
 t = gifos.Terminal(width=700, height=450, xpad=10, ypad=10)
 
-# Set the framerate and color scheme (e.g., 'dracula', 'nord', 'gruvbox')
+# Set the framerate 
 t.set_fps(15)
-t.set_color_scheme("gruvbox")
 
 # 1. The Boot Sequence
 t.gen_text(text="[    0.000000] Booting Homelab Kernel 6.8.0-custom...", row_num=1)
