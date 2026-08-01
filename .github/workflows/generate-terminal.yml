@@ -21,15 +21,16 @@ jobs:
         # Install the gifos library
         run: pip install git+https://github.com/x0rzavi/github-readme-terminal.git 
 
-      - name: Generate Terminal GIF
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Automatically provided by GitHub Actions
-        run: python generate_terminal.py
-
       - name: Commit and Push changes
         run: |
+          # Let's list the files just to debug and see what it was actually named
+          ls -la *.gif 
+          
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output.gif
+          
+          # git add -A grabs ALL new or modified files automatically
+          git add -A
+          
           git commit -m "Auto-update terminal profile GIF" || exit 0
           git push
