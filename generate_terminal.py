@@ -45,4 +45,4 @@ except Exception as e:
 t.gen_text(text="furqan@homelab:~$ _", row_num=13, contin=True)
 
 # Generate the final GIF
-t.gen_gif(output_name="terminal_profile.gif")
+t.gen_gif()
