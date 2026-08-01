@@ -26,8 +26,8 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          # Let's list the files just to debug and see what it was actually named
-          ls -la *.gif 
+          # Optional debug output: don't fail if no GIF exists yet
+          ls -la *.gif || true
           
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
