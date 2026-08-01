@@ -13,6 +13,11 @@ Software developer and security researcher currently pursuing B.Tech at NIT Srin
 [![Portfolio](https://img.shields.io/badge/Portfolio-furqanmakhdoomi.netlify.app-blue?style=flat-square&logo=google-chrome)](https://furqanmakhdoomi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/furqan-makhdoomi-b69651284/)
 
+
+<div align="center">
+  <img src="terminal_profile.gif" alt="Furqan's Terminal Profile" width="700">
+</div>
+
 ## Tech Stack(but not limited to :) 
 <img align="right" height="150" width="180" src="https://media.giphy.com/media/NNVWeKWyh2p026Or91/giphy.gif"/>
 
