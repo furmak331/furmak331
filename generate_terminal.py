@@ -45,4 +45,6 @@ except Exception as e:
 t.gen_text(text="furqan@homelab:~$ _", row_num=13, contin=True)
 
 # Generate the final GIF
-t.gen_gif(output_name="terminal_profile.gif")
+t.gen_gif()
+if os.path.exists("output.gif"):
+    os.replace("output.gif", "terminal_profile.gif")
