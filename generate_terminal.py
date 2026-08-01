@@ -33,14 +33,14 @@ t.gen_text(text="", row_num=8)
 # 3. Fetch and Display Live GitHub Stats
 t.gen_text(text="furqan@homelab:~$ ./get_stats.sh", row_num=9)
 
-github_token = os.environ.get("GITHUB_TOKEN")
-if github_token:
-    stats = gifos.utils.fetch_github_stats(user_name="furmak331", token=github_token)
+# The gifos library automatically reads GITHUB_TOKEN from the environment
+try:
+    stats = gifos.utils.fetch_github_stats("furmak331")
     t.gen_text(text=f"Total Commits: {stats.commits}", row_num=10)
     t.gen_text(text=f"Total Stars:   {stats.stars}", row_num=11)
     t.gen_text(text=f"Repositories:  {stats.repos}", row_num=12)
-else:
-    t.gen_text(text="Error: GITHUB_TOKEN not found.", row_num=10)
+except Exception as e:
+    t.gen_text(text="[!] Error fetching stats.", row_num=10)
 
 t.gen_text(text="furqan@homelab:~$ _", row_num=13, contin=True)
 
